@@ -1,0 +1,8 @@
+{
+  "name": "Curio",
+  "description": "An experiential learning platform helping school-age children build real-world skills, confidence, and practical understanding beyond the classroom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
