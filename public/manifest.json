@@ -1,0 +1,17 @@
+{
+  "name": "Project Curio",
+  "short_name": "Curio",
+  "description": "Experiential real-world learning for school-age children (ages 10–16).",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#0c0a09",
+  "icons": [
+    {
+      "src": "/curio-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
